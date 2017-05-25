@@ -1,0 +1,4 @@
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayes\bin\Release\NaiveBayes.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayes\bin\Release\NaiveBayes.pdb
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Release\NaiveBayes.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Release\NaiveBayes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Release\NaiveBayesTests.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Release\NaiveBayesTests.pdb
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Release\NaiveBayes.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Release\NaiveBayes.pdb
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\obj\Release\NaiveBayesTests.csprojResolveAssemblyReference.cache
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\obj\Release\NaiveBayesTests.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\obj\Release\NaiveBayesTests.pdb

@@ -1,0 +1,22 @@
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Debug\NaiveBayesTests.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Debug\NaiveBayesTests.pdb
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Debug\NaiveBayes.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\bin\Debug\NaiveBayes.pdb
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\obj\Debug\NaiveBayesTests.csprojResolveAssemblyReference.cache
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\obj\Debug\NaiveBayesTests.dll
+C:\Users\Mathias\Documents\Visual Studio 2012\Projects\NaiveBayes\NaiveBayesTests\obj\Debug\NaiveBayesTests.pdb
+C:\Users\Haroun3amri\Documents\Visual Studio 2013\Projects\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayesTests.dll
+C:\Users\Haroun3amri\Documents\Visual Studio 2013\Projects\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayesTests.pdb
+C:\Users\Haroun3amri\Documents\Visual Studio 2013\Projects\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayes.dll
+C:\Users\Haroun3amri\Documents\Visual Studio 2013\Projects\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayes.pdb
+C:\Users\Haroun3amri\Documents\Visual Studio 2013\Projects\FilterSpamML\NaiveBayesTests\obj\Debug\NaiveBayesTests.csprojResolveAssemblyReference.cache
+C:\Users\Haroun3amri\Documents\Visual Studio 2013\Projects\FilterSpamML\NaiveBayesTests\obj\Debug\NaiveBayesTests.dll
+C:\Users\Haroun3amri\Documents\Visual Studio 2013\Projects\FilterSpamML\NaiveBayesTests\obj\Debug\NaiveBayesTests.pdb
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayesTests.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayesTests.pdb
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayes.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\bin\Debug\NaiveBayes.pdb
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\obj\Debug\NaiveBayesTests.csprojResolveAssemblyReference.cache
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\obj\Debug\NaiveBayesTests.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\NaiveBayesTests\obj\Debug\NaiveBayesTests.pdb

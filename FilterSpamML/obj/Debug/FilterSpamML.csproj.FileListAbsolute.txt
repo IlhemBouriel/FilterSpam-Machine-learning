@@ -1,0 +1,40 @@
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.exe.config
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.exe
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.pdb
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.csprojResolveAssemblyReference.cache
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.exe
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.pdb
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayes.dll
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayesTests.dll
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayesTests.pdb
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayes.pdb
+c:\users\haroun3amri\documents\visual studio 2013\Projects\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.exe.config
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.exe
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.pdb
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.exe
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.pdb
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayes.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayesTests.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayesTests.pdb
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayes.pdb
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Ilhem Bouriel\Desktop\securinets\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.csprojResolveAssemblyReference.cache
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.exe.config
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.exe
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.pdb
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.exe
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\FilterSpamML.pdb
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayes.dll
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayesTests.dll
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayesTests.pdb
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\NaiveBayes.pdb
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Ilhem Bouriel\Desktop\personal_data\securinets\FilterSpamML\FilterSpamML\obj\Debug\FilterSpamML.csprojResolveAssemblyReference.cache
