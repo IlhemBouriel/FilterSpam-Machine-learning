@@ -4,7 +4,7 @@ filter spam for detecting spam email<br />
 ML algorithm used is NaiveBayes<br />
 ## Code Example
 
-  NaiveBayes.NaiveBayes naiveBayes = new NaiveBayes.NaiveBayes();<br />
+            NaiveBayes.NaiveBayes naiveBayes = new NaiveBayes.NaiveBayes();<br />
             // spam mail<br />
             var result = naiveBayes.CheckEmail("Buy Cheap cialis Online");<br />
             Assert.AreEqual(true, result);<br />
